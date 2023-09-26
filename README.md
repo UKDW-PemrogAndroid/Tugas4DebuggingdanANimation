@@ -24,3 +24,4 @@ Buatlah dengan spesifikasi aplikasi  sebagai berikut :
 4. Permainan akan memiliki menu about dengan icon ic_menu_info_details, ber-title "About", dan parameter showAsAction="always".
 bila menu about ditekan akan menampilkan dialog yang berisi informasi versi aplikasi dan pembuat aplikasi dengan format <NIM>-<Nama>. (30 point)
 
+![Alt Text](https://github.com/UKDW-PemrogAndroid/Tugas4DebuggingdanANimation/blob/main/about.PNG)
